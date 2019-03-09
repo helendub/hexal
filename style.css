@@ -1,3 +1,14 @@
+@font-face {
+    font-family: "Lato";
+    src: url(assets/Lato-Regular.ttf);
+   }
+
+@font-face {
+    font-family: "Maven Pro";
+    src: url(assets/MavenPro-Regular.ttf);
+   }
+
+
 body {
     font-family: "Lato";
     min-width: 1020px;
